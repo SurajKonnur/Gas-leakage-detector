@@ -8,8 +8,8 @@ BlynkTimer timer;
 #define BLYNK_PRINT Serial    
 char auth[] = "0tLpvolIZvNadprbOUZf3IcQ-kHoo2Wx"; 
 
-char ssid[] = "SURAJ 4300"; 
-char pass[] = "tubataaa"; 
+char ssid[] = "Wifi name"; 
+char pass[] = "Password"; 
 int mq2 = A0; 
 int data = 0;
 Servo servo;
